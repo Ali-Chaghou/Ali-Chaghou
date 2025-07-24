@@ -1,5 +1,5 @@
 # Hallo👋, ich bin Ali Chaghou
-Ich bin von Haus aus Ein leidenschaftlicher Frontend-Entwickler aus Wuppertal, mit einem soliden Verständnis für moderne
+Ich bin von Haus aus Ein leidenschaftlicher Cloud Engineer aus Wuppertal, mit einem soliden Verständnis für moderne
 Web-Architektur und fortgeschrittener Erfahrung in Web-Frameworks.
 
  • 🔭 Ich arbeite derzeit an meiner Portfolio-Website
