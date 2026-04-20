@@ -46,8 +46,11 @@ A lot of my strongest work lives in private enterprise environments and internal
   <img src="https://img.shields.io/badge/Fish%20Shell-Terminal%20Workflow-111827?style=for-the-badge" />
 </p>
 
-## Cloud, Platform and Architecture
 
+## Cloud, Platform and Architecture
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,ansible,cloudflare,nginx,githubactions,openstack&perline=11" />
+</p>
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-Cloud%20Infrastructure-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-Cloud%20Engineering-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -251,7 +254,7 @@ A lot of my strongest work lives in private enterprise environments and internal
 ## Web and App Background
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,nodejs,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,angular,js,nodejs,html,css,wordpress,figma&perline=8" />
 </p>
 
 <p align="left">
