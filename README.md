@@ -10,6 +10,7 @@ A lot of my strongest work lives in private enterprise environments and internal
 - 🔗 I work deeply with ETL, APIs, Talend, DocuWare, NAV / Business Central, ERP integrations, and cross system data flows
 - 🧪 I do security minded technical validation, API security checks, access troubleshooting, root cause analysis, and production diagnostics
 - 🐍 I automate with Python, SQL, Bash, Fish shell, PowerShell, CMD, JavaScript, and CLI driven workflows
+- 💻 I also work on web and application side topics with React, Angular, JavaScript, Node.js, HTML, CSS, WordPress, Figma, and application troubleshooting
 - 📐 I create system context diagrams, architecture overviews, technical landscape models, dependency maps, and stakeholder ready technical documentation
 - 🧠 I also work on AI workflows, OpenClaw experiments, agent systems, and practical enterprise AI architecture ideas
 - 🏠 Outside enterprise work, I build and operate self hosted systems with Proxmox, Hyper-V, Paperless-ngx, n8n, Pi-hole, WireGuard, and Docker based hosting
@@ -38,6 +39,10 @@ A lot of my strongest work lives in private enterprise environments and internal
   <img src="https://img.shields.io/badge/OpenTofu-Open%20IaC-FFD000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AWS%20CDK-Infrastructure%20Programming-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/MS%20SQL-Database%20Engineering-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-Pipelines%20%26%20Delivery-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-Code%20Quality%20%26%20Analysis-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentry-Monitoring%20%26%20Tracing-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keycloak-Identity%20%26%20Access-1F2937?style=for-the-badge" />
   <img src="https://img.shields.io/badge/WSL-Developer%20Environment-4B5563?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Fish%20Shell-Terminal%20Workflow-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=for-the-badge" />
@@ -213,17 +218,6 @@ A lot of my strongest work lives in private enterprise environments and internal
   <img src="https://img.shields.io/badge/Homelab%20Security%20Hardening-Practical%20Risk%20Reduction-991B1B?style=for-the-badge" />
 </p>
 
-## Web and App Background
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,angular,js,nodejs,html,css,wordpress,figma&perline=8" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Web%20Application%20Background-Application%20Layer%20Awareness-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Frontend%20Understanding-UI%20and%20Flow%20Context-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Application%20Troubleshooting-Behavior%20and%20Integration%20Checks-2563EB?style=for-the-badge" />
-</p>
 
 ## Selected areas I work on
 
