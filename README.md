@@ -31,7 +31,7 @@ A lot of my strongest work lives in private enterprise environments and internal
 ## Core Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,py,bash,powershell,linux,git,github,gitlab,vscode,postgres,mysql,js,nodejs,react,html,css" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,py,bash,powershell,linux,git,github,gitlab,vscode,postgres,mysql,js,nodejs,react,html,css,ansible,cloudflare,nginx,githubactions,openstack&perline=11" />
 </p>
 
 <p align="left">
@@ -48,9 +48,7 @@ A lot of my strongest work lives in private enterprise environments and internal
 
 
 ## Cloud, Platform and Architecture
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,ansible,cloudflare,nginx,githubactions,openstack&perline=11" />
-</p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-Cloud%20Infrastructure-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-Cloud%20Engineering-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
