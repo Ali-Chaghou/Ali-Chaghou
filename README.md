@@ -31,7 +31,7 @@ A lot of my strongest work lives in private enterprise environments and internal
 ## Core Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,py,bash,powershell,linux,git,github,gitlab,vscode,postgres,mysql,js,nodejs,react,html,css,ansible,cloudflare,nginx,githubactions,openstack&perline=11" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,py,bash,powershell,linux,git,github,gitlab,vscode,postgres,mysql,js,nodejs,react,angular,html,css,wordpress,figma,ansible,cloudflare,nginx,githubactions,openstack,kali&perline=10" />
 </p>
 
 <p align="left">
@@ -44,8 +44,10 @@ A lot of my strongest work lives in private enterprise environments and internal
   <img src="https://img.shields.io/badge/Keycloak-Identity%20%26%20Access-1F2937?style=for-the-badge" />
   <img src="https://img.shields.io/badge/WSL-Developer%20Environment-4B5563?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Fish%20Shell-Terminal%20Workflow-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nmap-Network%20Scanning%20%26%20Discovery-004170?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OWASP-Security%20Testing%20%26%20Validation-000000?style=for-the-badge" />
 </p>
-
 
 ## Cloud, Platform and Architecture
 
@@ -173,6 +175,7 @@ A lot of my strongest work lives in private enterprise environments and internal
   <img src="https://img.shields.io/badge/Identity%20Troubleshooting-Access%20Diagnosis-374151?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Certificate%20Troubleshooting-TLS%20%26%20Trust-991B1B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pentesting%20Oriented%20Validation-Practical%20Checks-7F1D1D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OWASP-Security%20Testing%20%26%20Validation-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Least%20Privilege-Aware%20by%20Default-374151?style=for-the-badge" />
 </p>
 
@@ -188,6 +191,8 @@ A lot of my strongest work lives in private enterprise environments and internal
 </p>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nmap-Network%20Scanning%20%26%20Discovery-004170?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Root%20Cause%20Analysis-Cross%20System%20Troubleshooting-374151?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Production%20Incident%20Analysis-Operational%20Diagnostics-4B5563?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Failure%20Isolation-Issue%20Containment-4B5563?style=for-the-badge" />
