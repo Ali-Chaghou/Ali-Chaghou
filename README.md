@@ -2,9 +2,9 @@
 
 I work across cloud infrastructure, platform engineering, hybrid connectivity, automation, integrations, troubleshooting, and system design.
 
-A lot of my strongest work lives in private enterprise environments and internal platforms, so this profile combines public work with representative areas I work on professionally. The focus is real world engineering: infrastructure that has to run, integrations that have to work, connectivity that has to be validated, and incidents that have to be diagnosed properly.
+A lot of my strongest work lives in private enterprise environments and internal platforms, so this profile combines public work with representative areas I work on professionally. My focus is real world engineering: infrastructure that has to run, integrations that have to work, connectivity that has to be validated, and incidents that have to be diagnosed properly.
 
-- ☁️ I build and operate cloud and platform infrastructure across AWS, Azure, and GCP
+- ☁️ I build and operate cloud and platform environments across AWS, Azure, and GCP
 - 🏗️ I work on infrastructure as code, platform operations, reusable modules, governance, and environment standardization
 - 🌐 I troubleshoot DNS, VPN, routing, firewall paths, TLS, certificates, identity flows, and hybrid connectivity
 - 🔗 I work deeply with ETL, APIs, Talend, DocuWare, NAV / Business Central, ERP integrations, and cross system data flows
@@ -28,7 +28,7 @@ A lot of my strongest work lives in private enterprise environments and internal
   </a>
 </p>
 
-## Core Stack
+## Toolbox
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,py,bash,powershell,linux,git,github,gitlab,vscode,postgres,mysql,js,nodejs,react,angular,html,css,wordpress,figma,ansible,cloudflare,nginx,githubactions,openstack,kali&perline=10" />
@@ -38,10 +38,6 @@ A lot of my strongest work lives in private enterprise environments and internal
   <img src="https://img.shields.io/badge/OpenTofu-Open%20IaC-FFD000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AWS%20CDK-Infrastructure%20Programming-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/MS%20SQL-Database%20Engineering-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-Pipelines%20%26%20Delivery-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/SonarQube-Code%20Quality%20%26%20Analysis-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sentry-Monitoring%20%26%20Tracing-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keycloak-Identity%20%26%20Access-1F2937?style=for-the-badge" />
   <img src="https://img.shields.io/badge/WSL-Developer%20Environment-4B5563?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Fish%20Shell-Terminal%20Workflow-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=for-the-badge" />
@@ -50,17 +46,6 @@ A lot of my strongest work lives in private enterprise environments and internal
 </p>
 
 ## Cloud, Platform and Architecture
-
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Infrastructure-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-Cloud%20Engineering-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-Cloud%20Projects-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenTofu-Open%20Infrastructure%20as%20Code-FFD000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS%20CDK-Cloud%20Development%20Kit-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-Container%20Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Container%20Workloads-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/VPC-Network%20Segmentation-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -102,24 +87,11 @@ A lot of my strongest work lives in private enterprise environments and internal
 ## DevOps, Tooling and Operations
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-Code%20%26%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-CI%2FCD%20%26%20DevOps-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab%20CI-Pipelines%20%26%20Delivery-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/SonarQube-Code%20Quality-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sentry-Monitoring%20%26%20Incident%20Analysis-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-Pipelines%20%26%20Delivery-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-Code%20Quality%20%26%20Analysis-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentry-Monitoring%20%26%20Tracing-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keycloak-Identity%20%26%20Access-1F2937?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cloudflare-DNS%20Edge%20Access-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keycloak-Identity%20%26%20Access-111827?style=for-the-badge" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-Servers%20%26%20Operations-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Windows%20Server-Administration-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-Automation%20%26%20Administration-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/CMD-Windows%20CLI-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WSL-Linux%20on%20Windows-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Fish%20Shell-Terminal%20Workflow-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VS%20Code-Editor%20%26%20Tooling-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker%20Compose-Local%20Orchestration-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
@@ -142,23 +114,17 @@ A lot of my strongest work lives in private enterprise environments and internal
   <img src="https://img.shields.io/badge/REST-HTTP%20Interfaces-0F766E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SOAP-Enterprise%20Integration-475569?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQL-Querying%20%26%20Analysis-1D4ED8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS%20SQL-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</p>
-
-<p align="left">
   <img src="https://img.shields.io/badge/Talend-Integration%20Workflows-FF6D70?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DocuWare-Document%20Workflows-0A84FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NAV%20%2F%20Business%20Central-ERP%20Integration-2563EB?style=for-the-badge" />
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Enterprise%20Integration-Cross%20System%20Engineering-475569?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cross%20System%20Data%20Flows-Operational%20Pipelines-334155?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Scheduled%20Job%20Analysis-Operational%20Flow%20Validation-374151?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ERP%20Integration-Business%20Process%20Flows-475569?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Document%20Workflow%20Integration-Operational%20Documents-0A84FF?style=for-the-badge" />
-</p>
-
-<p align="left">
   <img src="https://img.shields.io/badge/Data%20Validation-Input%20%26%20Output%20Checks-2563EB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ETL%20Debugging-Pipeline%20Diagnosis-2563EB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Database%20Troubleshooting-Query%20%26%20State%20Analysis-374151?style=for-the-badge" />
@@ -176,7 +142,6 @@ A lot of my strongest work lives in private enterprise environments and internal
   <img src="https://img.shields.io/badge/Certificate%20Troubleshooting-TLS%20%26%20Trust-991B1B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pentesting%20Oriented%20Validation-Practical%20Checks-7F1D1D?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OWASP-Security%20Testing%20%26%20Validation-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Least%20Privilege-Aware%20by%20Default-374151?style=for-the-badge" />
 </p>
 
 <p align="left">
@@ -199,8 +164,6 @@ A lot of my strongest work lives in private enterprise environments and internal
   <img src="https://img.shields.io/badge/Issue%20Reproduction-Repeatable%20Diagnosis-4B5563?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Technical%20Risk%20Analysis-Operational%20Assessment-4B5563?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Recovery%20Support-Restore%20and%20Validation-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/External%20Access%20Cleanup-Exposure%20Reduction-991B1B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tenant%20%26%20Account%20Cleanup-Operational%20Hygiene-991B1B?style=for-the-badge" />
 </p>
 
 ## AI, Automation and Architecture
@@ -215,15 +178,11 @@ A lot of my strongest work lives in private enterprise environments and internal
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-Scripting%20%26%20Tooling-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell%20Automation-CLI%20Driven%20Operations-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Diagnostic%20Scripting-Repeatable%20Checks-2563EB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Validation%20Scripts-Operational%20Verification-2563EB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Export%20Scripts-Reporting%20Artifacts-2563EB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Operational%20Automation-Infrastructure%20Workflows-059669?style=for-the-badge" />
-</p>
-
-<p align="left">
   <img src="https://img.shields.io/badge/Architecture%20Overviews-System%20Communication-1D4ED8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/System%20Context%20Diagrams-Environment%20Modeling-1D4ED8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Technical%20Landscape%20Modeling-Dependencies%20%26%20Boundaries-334155?style=for-the-badge" />
@@ -275,7 +234,7 @@ A lot of my strongest work lives in private enterprise environments and internal
 - Integration engineering across ETL, APIs, Talend, DocuWare, NAV / Business Central, and cross system data flows
 - Identity, access, certificate, and SSO related troubleshooting across cloud and platform environments
 - Production incident analysis, failure isolation, issue reproduction, and root cause analysis
-- GitHub, GitLab, GitLab CI/CD, SonarQube, Sentry, Cloudflare, Keycloak, and operational delivery workflows
+- GitLab CI/CD, SonarQube, Sentry, Cloudflare, Keycloak, and operational delivery workflows
 - Linux, Windows Server, PowerShell, CMD, WSL, Fish shell, and CLI driven engineering
 - Architecture overviews, system context diagrams, technical landscape modeling, migration analysis, and stakeholder ready technical communication
 - Homelab and self hosted systems with Proxmox, Hyper-V, Paperless-ngx, n8n, Pi-hole, WireGuard, and Docker based hosting
