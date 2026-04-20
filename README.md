@@ -32,17 +32,17 @@ A lot of my strongest work lives in private enterprise environments and internal
 ## Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,py,bash,powershell,linux,git,github,gitlab,vscode,postgres,mysql,js,nodejs,react,angular,html,css,wordpress,figma,ansible,cloudflare,nginx,githubactions,openstack,kali&perline=10" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,py,java,go,ts,ruby,bash,powershell,linux,git,github,gitlab,githubactions,jenkins,vscode,postgres,mysql,nodejs,js,react,angular,html,css,wordpress,figma,ansible,cloudflare,nginx,openstack,prometheus,grafana,kali&perline=10" />
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/OpenTofu-Open%20IaC-FFD000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AWS%20CDK-Infrastructure%20Programming-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/MS%20SQL-Database%20Engineering-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-Pipelines%20%26%20Delivery-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/SonarQube-Code%20Quality%20%26%20Analysis-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sentry-Monitoring%20%26%20Tracing-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keycloak-Identity%20%26%20Access-1F2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-Querying%20%26%20Analysis-1D4ED8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/YAML-Configuration%20Files-CB171E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JSON-Structured%20Data-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HCL-Infrastructure%20Definitions-7B42BC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/WSL-Developer%20Environment-4B5563?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Fish%20Shell-Terminal%20Workflow-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=for-the-badge" />
@@ -63,6 +63,11 @@ A lot of my strongest work lives in private enterprise environments and internal
   <img src="https://img.shields.io/badge/Organizations-Account%20Structure-475569?style=for-the-badge" />
   <img src="https://img.shields.io/badge/API%20Gateway-Managed%20APIs-0F766E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Cognito-User%20Identity%20Flows-DD344C?style=for-the-badge&logo=amazoncognito&logoColor=white" />
+  <img src="https://img.shields.io/badge/FinOps-Cost%20Awareness%20%26%20Optimization-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DevSecOps-Security%20by%20Design-991B1B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Networking-DNS%20VPC%20Subnets%20Routing-065F46?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-CLI%20and%20Systems%20Operations-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Observability-Monitoring%20%26%20Visibility-4338CA?style=for-the-badge" />
 </p>
 
 <p align="left">
@@ -194,6 +199,11 @@ A lot of my strongest work lives in private enterprise environments and internal
   <img src="https://img.shields.io/badge/Solution%20Design-Practical%20Architecture-1D4ED8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Dependency%20Mapping-Cross%20System%20Relationships-334155?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Technical%20Documentation-Stakeholder%20Ready%20Communication-334155?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/AI%20Native%20Engineering-LLM%20Assisted%20Productivity-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-Orchestration%20%26%20Workflows-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Knowledge%20Augmented%20Systems-4F46E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMOps-Model%20Operations%20%26%20Monitoring-374151?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Guardrails-Safety%20%26%20Control-991B1B?style=for-the-badge" />
 </p>
 
 ## Homelab and Self Hosted Projects
