@@ -28,7 +28,7 @@ I do not just work on code. I work on real platforms, real integrations, real in
 
 • 📝 LinkedIn: https://www.linkedin.com/in/ali-chaghou
 
-• 💬 Ask me about cloud platforms, Terraform, Python, SQL, ETL, APIs, integration architecture, networking, event driven systems, AI workflows, GitLab CI/CD, Linux, PowerShell, or troubleshooting
+• 💬 Ask me about cloud platforms, Terraform, Python, SQL, ETL, APIs, integration architecture, networking,    event driven systems, AI workflows, GitLab CI/CD, Linux, PowerShell, or troubleshooting
 
 • 📫 Reach me at: alichaghou89@gmail.com
 
@@ -49,22 +49,44 @@ I do not just work on code. I work on real platforms, real integrations, real in
 
 # Core Stack:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,py,java,js,bash,powershell,linux,docker,git,github,gitlab,vscode,postgres,mysql,nodejs,cloudflare,react,html,css" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,py,bash,powershell,linux,git,github,gitlab,vscode,postgres,mysql" />
 </p>
 
-# Cloud, Platform and Architecture:
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenTofu-Infrastructure%20as%20Code-FFD000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS%20CDK-Infrastructure%20Programming-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS%20SQL-Database%20Engineering-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/EventBridge-Event%20Driven%20Architecture-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+# Cloud, IaC and Platform Engineering:
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-Cloud%20Infrastructure-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-Cloud%20Engineering-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-Cloud%20Projects-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenTofu-Open%20IaC-FFD000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS%20CDK-Cloud%20Development%20Kit-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-Container%20Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Event%20Driven-Architecture%20%26%20Automation-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Platform%20Engineering-Cloud%20%26%20Operations-334155?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Architecture-System%20%26%20Solution%20Design-1D4ED8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Event%20Driven%20Architecture-Distributed%20Systems-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Networking-DNS%20VPN%20Hybrid%20Connectivity-065F46?style=for-the-badge" />
 </p>
 
-# DevOps, Tooling and Operations:
+# Integration, Data and Enterprise Systems:
+<p align="left">
+  <img src="https://img.shields.io/badge/ETL-Data%20Integration-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/APIs-Design%20Testing%20%26%20Troubleshooting-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-Querying%20%26%20Analysis-1D4ED8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS%20SQL-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Talend-Integration%20Workflows-FF6D70?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DocuWare-Document%20Workflows-0A84FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Enterprise%20Integration-Cross%20System%20Engineering-475569?style=for-the-badge" />
+</p>
+
+# DevOps, Security and Operations:
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub-Code%20%26%20Workflows-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-CI%2FCD%20%26%20Pipelines-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
@@ -72,44 +94,29 @@ I do not just work on code. I work on real platforms, real integrations, real in
   <img src="https://img.shields.io/badge/Sentry-Monitoring%20%26%20Incident%20Analysis-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-DNS%20Edge%20Access-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Keycloak-Identity%20%26%20Access-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-Servers%20%26%20Operations-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Windows-Server%20%26%20Administration-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Operations-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows%20Server-Administration-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-Automation-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/WSL-Developer%20Environment-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Fish%20Shell-Shell%20Workflow-1F2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fish%20Shell-Terminal%20Workflow-1F2937?style=for-the-badge" />
 </p>
 
-# Integration, Data and Security:
-<p align="left">
-  <img src="https://img.shields.io/badge/ETL-Data%20Integration-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API-Design%20Testing%20%26%20Troubleshooting-0F766E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-Querying%20%26%20Analysis-1D4ED8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Databases-Server%20%26%20Data%20Ops-475569?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Talend-Integration%20Workflows-FF6D70?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DocuWare-Document%20Workflows-0A84FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security-API%20Testing%20%26%20Technical%20Analysis-991B1B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pentesting-Practical%20Validation-7F1D1D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Troubleshooting-Cross%20System%20Root%20Cause%20Analysis-374151?style=for-the-badge" />
-</p>
-
-# AI, Automation and Systems:
+# AI, Automation and Homelab:
 <p align="left">
   <img src="https://img.shields.io/badge/AI-Workflows%20%26%20Automation-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenClaw-Experiments%20%26%20Tooling-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Agents-Practical%20Systems-4F46E5?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Enterprise%20AI-Architecture%20Concepts-9333EA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation-Useful%20over%20Fancy-059669?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-Scripting%20%26%20Tooling-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-Automation%20%26%20Administration-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-</p>
-
-# Homelab and Self Hosted Projects:
-<p align="left">
   <img src="https://img.shields.io/badge/Proxmox-Homelab%20Virtualization-E57000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Hyper--V-VM%20Management-0078D6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/n8n-Automation%20Workflows-EA4B71?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Paperless--ngx-Document%20Management-22C55E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pi--hole-Network%20Filtering-96060C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Self%20Hosted-Practical%20Systems%20Engineering-111827?style=for-the-badge" />
+</p>
+
+# Web and App Background:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,nodejs" />
 </p>
 
 # Selected areas I work on:
